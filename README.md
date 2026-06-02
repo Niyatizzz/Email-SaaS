@@ -1,19 +1,6 @@
+<div align="center">
 
-
-# emAIl
-
-### emailophobia
-*/ɪˈmeɪl.əˌfoʊ.bi.ə/* • **noun**
-
-> *Opening your inbox and instantly regretting it.*
-
-### Your inbox already has the answers.
-
-Search smarter. Read less. Respond faster.
-
-Turn thousands of emails into instant answers with AI-powered search, thread summaries, priority insights, and a lightning-fast keyboard-first experience.
-
-<br/>
+# emAIl - AI Powered Email Client
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -28,6 +15,23 @@ Turn thousands of emails into instant answers with AI-powered search, thread sum
 ![Aurinko](https://img.shields.io/badge/Aurinko-F4A460?style=for-the-badge)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
+
+</div>
+
+### emailophobia
+*/ɪˈmeɪl.əˌfoʊ.bi.ə/* • **noun**
+
+> *Opening your inbox and instantly regretting it.*
+
+### Your inbox already has the answers.
+
+Search smarter. Read less. Respond faster.
+
+Turn thousands of emails into instant answers with AI-powered search, thread summaries, priority insights, and a lightning-fast keyboard-first experience.
+
+<br/>
+
+
 
 
 
