@@ -1,8 +1,8 @@
-<div align="center">
+
 
 # emAIl
 
-### emAIlophobia
+### emailophobia
 */ɪˈmeɪl.əˌfoʊ.bi.ə/* • **noun**
 
 > *Opening your inbox and instantly regretting it.*
@@ -29,7 +29,7 @@ Turn thousands of emails into instant answers with AI-powered search, thread sum
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
 
-</div>
+
 
 ---
 
